@@ -1,5 +1,5 @@
 # Welcome to TilNotDrip!
 
-This is where all the projects that TechnikTil and CrusherNotDrip make together are put.
+This is what happens when two secret twins ([@TechnikTil](https://github.com/TechnikTil) & [@CrusherNotDrip](https://github.com/CrusherNotDrip)) find each other on planet earth.
 
 Please check out [TechNotDrip Engine](https://github.com/TilNotDrip/TechNotDrip-Engine/) we beg
